@@ -1,0 +1,8 @@
+To get to the personal project page just go to bubbabeakers.github.io. This will be the future landing page to show off projects and skills to potential employees or just to have a nice and neat place to store all code, present and future.
+
+Add all the different projects made at CVCC and BPA regionals as well as personal projects made on the side. Seperate the programs by programming language and purpose, might have to make seperate repos for those and maybe split up personal projects to a seperate repo as well. For now just throw everything into a single repo and then you can sort it out later
+
+Learn Git and markdown better, setup local repo and learn how to work Git commands from the command prompt
+
+Any future programs should go in github repos as well as making sure that when changes are made that they are added to the repo and not just uploaded when the program is done and working.
+
