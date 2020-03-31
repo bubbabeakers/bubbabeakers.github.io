@@ -6,3 +6,4 @@ Learn Git and markdown better, setup local repo and learn how to work Git comman
 
 Any future programs should go in github repos as well as making sure that when changes are made that they are added to the repo and not just uploaded when the program is done and working.
 
+Read the rest of the github guides from guides.github.com and watch youtube tutorials for anything that is still unclear.
